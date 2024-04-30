@@ -1,6 +1,9 @@
 # Hardened Weather App :sun_behind_rain_cloud:
 Update the previously coded Weather App with security principles learned over the course of the semester.
 
+> [!NOTE]
+> Original project located in Weather App file for reference.
+
   <details>
 <summary>Topics Covered</summary>
 
