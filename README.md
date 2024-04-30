@@ -55,7 +55,7 @@ pip install bandit
 
 ### To run Bandit
 ```
-bandit ./path
+bandit -r ./weather.py
 ```
 
   
